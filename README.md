@@ -11,5 +11,5 @@ plugins
 
 | Plugin | Link | Description |
 | :---: | :---: | :---: |
-| Sensible | A set of standard options for `tmux`|
-| Vim-Tmux Navigator | Allows movement between open panes and files open with Vim using `Ctrl-hjkl`|
+| Sensible | [github.com/tmux-plugins/tmux-sensible](https://github.com/tmux-plugins/tmux-sensible) | A set of standard options for `tmux` |
+| Vim-Tmux Navigator | [github.com/christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) | Allows movement between open panes and files open with Vim using `Ctrl-hjkl` |
