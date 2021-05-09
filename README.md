@@ -10,5 +10,6 @@ Running `Ctrl-I` from a newly sourced `tmux` session will then install all the r
 plugins
 
 | Plugin | Link | Description |
+| :---: | :---: | :---: |
 | Sensible | A set of standard options for `tmux`|
 | Vim-Tmux Navigator | Allows movement between open panes and files open with Vim using `Ctrl-hjkl`|
